@@ -3,13 +3,13 @@ Mongoose plugin, adding revision field to documents, which gets increased on eac
 
 # Installation
 ```shell
-npm i mongoose-revision-all
+git clone git@github.com:tarquas/mongoose-revision-all.git mongoose-revision-all
 ```
 
 # Package
 ```js
 {
-  "mongoose-revision-all": "~0.1.1"
+  "mongoose-revision-all": "tarquas/mongoose-revision-all#253d1e567b"
 }
 ```
 
