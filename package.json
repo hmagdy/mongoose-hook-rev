@@ -7,6 +7,7 @@
   "main": "./lib/v0/mongoose-revision-all.js",
 
   "dependencies": {
+    "mongoose-hook": "tarquas/mongoose-hook#4492773e14"
   },
 
   "files": [
