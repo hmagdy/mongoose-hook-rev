@@ -1,10 +1,10 @@
 {
-  "name": "mongoose-revision-all",
+  "name": "mongoose-hook-revision",
   "version": "0.1.1",
   "description": "Mongoose plugin, adding revision field to documents, which gets increased on each update (not only arrays, as internal versioning does). Also, disables internal versioning.",
   "license": "MIT",
-  "homepage": "https://github.com/tarquas/mongoose-revision-all",
-  "main": "./lib/v0/mongoose-revision-all.js",
+  "homepage": "https://github.com/tarquas/mongoose-hook-revision",
+  "main": "./lib/v0/index.js",
 
   "dependencies": {
     "mongoose-hook": "tarquas/mongoose-hook#8b4c10800e"
@@ -15,7 +15,7 @@
   ],
 
   "bugs": {
-    "url": "https://github.com/tarquas/mongoose-revision-all/issues",
+    "url": "https://github.com/tarquas/mongoose-hook-revision/issues",
     "email": "tarquas@gmail.com"
   },
   
@@ -49,6 +49,6 @@
   
   "repository": {
     "type": "git",
-    "url": "http://github.com/tarquas/mongoose-revision-all.git"
+    "url": "http://github.com/tarquas/mongoose-hook-revision.git"
   }
 }
