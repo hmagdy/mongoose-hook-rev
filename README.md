@@ -9,7 +9,7 @@ git clone git@github.com:tarquas/mongoose-hook-revision.git mongoose-hook-revisi
 # Package
 ```js
 {
-  "mongoose-hook-revision": "tarquas/mongoose-hook-revision#571ed204b1"
+  "mongoose-hook-revision": "tarquas/mongoose-hook-revision#dfc647d170"
 }
 ```
 
