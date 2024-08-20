@@ -9,7 +9,7 @@ git clone git@github.com:hmagdy/mongoose-hook-rev.git mongoose-hook-rev
 # Package
 ```js
 {
-  "mongoose-hook-rev": "1.1.2"
+  "mongoose-hook-rev": "1.1.3"
 }
 ```
 
