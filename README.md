@@ -1,15 +1,15 @@
-# mongoose-hook-revision
+# mongoose-hook-rev
 Mongoose plugin, adding revision field to documents, which gets increased on each update (not only arrays, as internal versioning does). Also, disables internal versioning.
 
 # Installation
 ```shell
-git clone git@github.com:tarquas/mongoose-hook-revision.git mongoose-hook-revision
+git clone git@github.com:hmagdy/mongoose-hook-rev.git mongoose-hook-rev
 ```
 
 # Package
 ```js
 {
-  "mongoose-hook-revision": "0.1.3"
+  "mongoose-hook-rev": "1.1.2"
 }
 ```
 
@@ -20,7 +20,7 @@ Example: enable 'revision' field on a schema:
 ```js
 var
   mongoose = require('mongoose'),
-  revisionPlugin = require('mongoose-hook-revision'),
+  revisionPlugin = require('mongoose-hook-rev'),
   PersonSchema;
 
 PersonSchema = {
